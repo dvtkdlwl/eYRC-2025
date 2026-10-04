@@ -1,5 +1,5 @@
 # eYRC-2025
-This is my repository detailing and containing all my work related to the IIT-Bombay eYantra 2025 Robotics Challenge. My team's problem statement was the autonomous control of a microdrone deployed in a greenhouse farm through visual localisation methods.
+This is my repository detailing and containing all my work related to the IIT-Bombay eYantra 2025 Robotics Challenge. My team's problem statement was the autonomous control of a microdrone deployed in a greenhouse farm through visual localisation methods. The first stage of the competition consisted of doing everything on simulation, and on the basis of our (almost-perfect) performance in stage 1, we qualified for stage-2- where we received hardware kits to execute our code on.
 
 <img width="1280" height="960" alt="WhatsApp Image 2026-10-04 at 16 54 05" src="https://github.com/user-attachments/assets/fb5552f4-2da3-4893-986f-40a11a036c04" />
 
@@ -13,3 +13,20 @@ Our detailed problem statement was as follows:
 7. The drone takes off and hovers over its homebase ("H" on the arena),
 8. Make the drone stabilise using the fine-tuned PID (LQR for simulation) controller at all of the received checkpoints in order (such as pesticide pickup, pesticide drop, arena entrance, etc.)
 9. Make it return to base and land.
+
+## Technologies Used
+The broad concepts explored throughout the project include:
+1. Camera calibration
+2. Image coordinate systems
+3. OpenCV techniques
+4. Homography and perspective transformation
+5. ArUco marker detection
+6. WhyCon-based localisation
+7. Coordinate-frame transformations
+8. ROS 2 communication
+9. PID control
+10. LQR control
+11. Closed-loop autonomous navigation
+12. Gazebo simulation
+
+> **Attribution:** The base simulation environments, robot models, and boilerplate code are provided by **e-Yantra, IIT Bombay** for eYRC-2025. This repository primarily contains our team's implementations, modifications, and solutions built upon that framework.

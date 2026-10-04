@@ -1,0 +1,4 @@
+bool get_all
+---
+waypoint_navigation/Waypoint[] waypoints
+

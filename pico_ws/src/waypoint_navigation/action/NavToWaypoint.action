@@ -1,0 +1,14 @@
+# Goal
+float32 x
+float32 y
+float32 z
+float32 hold_time
+---
+# Result
+float32 stabilization_time
+---
+# Feedback
+float32 current_x
+float32 current_y
+float32 current_z
+

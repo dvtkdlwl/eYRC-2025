@@ -1,0 +1,43 @@
+# ROS 2 generated files
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colcon
+*.egg-info/
+
+#ROS Bag Files
+rosbag2_2026_01_14-19_36_22/
+rosbag2_2026_01_14-19_37_09/
+rosbag2_2026_01_14-19_37_18/
+rosbag2_2026_01_14-19_39_13/
+rosbag2_2026_01_14-19_39_46/
+rosbag2_2026_01_14-21_48_31/
+
+# ROS generated/runtime data
+*.db3
+*.mkv
+
+# Firmware binaries
+*.bin
+
+# PyArmor generated runtime
+pyarmor_runtime_*/
+
+# Archives / submission artifacts
+*.zip
+
+# ROS bags
+**/rosbag2_*/

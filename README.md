@@ -1,7 +1,12 @@
 # eYRC-2025
 This is my repository detailing and containing all my work related to the IIT-Bombay eYantra 2025 Robotics Challenge. My team's problem statement was the autonomous control of a microdrone deployed in a greenhouse farm through visual localisation methods. The first stage of the competition consisted of doing everything on simulation, and on the basis of our (almost-perfect) performance in stage 1, we qualified for stage-2- where we received hardware kits to execute our code on.
 
-<img width="1280" height="960" alt="WhatsApp Image 2026-10-04 at 16 54 05" src="https://github.com/user-attachments/assets/fb5552f4-2da3-4893-986f-40a11a036c04" />
+<div>
+  <img src="https://github.com/user-attachments/assets/fb5552f4-2da3-4893-986f-40a11a036c04"
+       width="49%" />
+  <img src="https://github.com/user-attachments/assets/ef71d45a-52c7-40d0-b613-b5dc23182b73"
+       width="49%" />
+</div>
 
 ## Problem Statement
 Our detailed problem statement was as follows:
